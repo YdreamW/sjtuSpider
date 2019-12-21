@@ -1,0 +1,1795 @@
+[{
+    "course": [{
+      "id": "CS446     ",
+      "name": "土木工程计算机辅助设计(Compute Aided Design)"
+    }, {
+      "id": "BS097     ",
+      "name": "毕业设计（论文）（土木工程）(Undergraduate Project (Thesis))"
+    }, {
+      "id": "CV368     ",
+      "name": "混凝土结构课程设计(Cousre Design on Concrete Structure)"
+    }, {
+      "id": "CV444     ",
+      "name": "钢结构课程设计(Course Project of Steel Construction)"
+    }, {
+      "id": "CV445     ",
+      "name": "高层建筑结构设计(Structural Design of Skyscraper Architecture)"
+    }, {
+      "id": "CV369     ",
+      "name": "基坑工程课程设计(Design Course for Tunneling and Underground Engineering\r\n)"
+    }, {
+      "id": "CV446     ",
+      "name": "隧道与地下工程课程设计(Design Course for Tunneling and Underground Engineering\r\n)"
+    }, {
+      "id": "CV451     ",
+      "name": "城市地下空间规划与实例(Urban Underground Space Planning and Case Analysis)"
+    }, {
+      "id": "CV221     ",
+      "name": "岩土模型设计与制作(Design and Manufacture of Geotechnical Models)"
+    }, {
+      "id": "CV372     ",
+      "name": "土木工程测试技术与实践(Testing technology and practice in civil engineering)"
+    }, {
+      "id": "CV373     ",
+      "name": "现代建筑的可持续性和可恢复性设计(Sustainable and resilience design of modern structures)"
+    }, {
+      "id": "CV374     ",
+      "name": "BIM技术与实践(Theory?and?Practice?of BIM Technologies)"
+    }, {
+      "id": "CV375     ",
+      "name": "建筑膜结构设计(Design of Architectural Membrane Structures)"
+    }, {
+      "id": "CV447     ",
+      "name": "预制装配式混凝土结构设计(Design of precast concrete building structures)"
+    }, {
+      "id": "CV448     ",
+      "name": "大跨空间结构设计(Design of spatial structures)"
+    }, {
+      "id": "CV449     ",
+      "name": "既有建筑物鉴定加固技术与实践(Existing building appraisal and strengthening technology and practice)"
+    }, {
+      "id": "CV450     ",
+      "name": "工程结构模拟地震动力试验(Seismic Model Test for Civil Engineering Structures)"
+    }, {
+      "id": "CV218     ",
+      "name": "结构模型设计与制作(Design\r\nand Manufacture for the Structural Model)"
+    }]
+  },
+  {
+    "course": []
+  },
+  {
+    "course": [{
+      "id": "CV103     ",
+      "name": "工程测量(Engineering Measurement)"
+    }, {
+      "id": "CV204     ",
+      "name": "房屋建筑学(Building Construction)"
+    }, {
+      "id": "EM214     ",
+      "name": "结构力学（B类）（1）(Structural Mechanics I)"
+    }, {
+      "id": "CV302     ",
+      "name": "工程地质(Engineering Geology)"
+    }, {
+      "id": "CV307     ",
+      "name": "结构试验(Structural Experiment)"
+    }, {
+      "id": "CV308     ",
+      "name": "土力学与基础工程(Soil Mechanics and Foundation Engineering)"
+    }, {
+      "id": "EM315     ",
+      "name": "流体力学（土木）(Fluid Mechanics)"
+    }, {
+      "id": "EM352     ",
+      "name": "结构力学（B类）（2）(Structural Mechanics II)"
+    }, {
+      "id": "CV328     ",
+      "name": "钢结构基本原理(Basic Principles of Steel Structure)"
+    }, {
+      "id": "EM316     ",
+      "name": "弹性力学及有限元(Elastic Mechanics and  Finite Element Analysis)"
+    }, {
+      "id": "CV336     ",
+      "name": "土木工程项目管理(Project Management of Civil Engineering)"
+    }, {
+      "id": "LA432     ",
+      "name": "建设法规(construction law)"
+    }, {
+      "id": "CV219     ",
+      "name": "土木工程材料(Civil Engineering Materials)"
+    }, {
+      "id": "CV220     ",
+      "name": "土木工程制图基础(Fundamental of Civil Engineering Drafting)"
+    }, {
+      "id": "CV370     ",
+      "name": "混凝土结构基本原理(Basic Theory of Reinforced Concrete Structures)"
+    }, {
+      "id": "CV371     ",
+      "name": "结构荷载与可靠性理论(Structural Loads and Reliability Theory)"
+    }, {
+      "id": "CV406     ",
+      "name": "国外设计规范简介(Introductory International Design Standards)"
+    }, {
+      "id": "CV402     ",
+      "name": "建筑设备概论(Elementary of Construction Equipment)"
+    }, {
+      "id": "CV427     ",
+      "name": "桥梁工程(Bridge Engineering)"
+    }, {
+      "id": "CV306     ",
+      "name": "结构概念设计(Conceptual Design for Structures)"
+    }, {
+      "id": "CV350     ",
+      "name": "地基处理(Soft Ground Improvement\r\n)"
+    }, {
+      "id": "CV322     ",
+      "name": "水工建筑物(Hydraulic Structure)"
+    }, {
+      "id": "CV312     ",
+      "name": "道路工程(Roadway Engineering)"
+    }, {
+      "id": "CV343     ",
+      "name": "防灾工程学导论(Introduction to Disaster Prevention Engineering\r\n)"
+    }, {
+      "id": "CV363     ",
+      "name": "混凝土结构与砌体结构设计(Design of Concrete Structure and Masonry Structure)"
+    }, {
+      "id": "CV405     ",
+      "name": "建筑结构抗震(Seismic Analysis for Construction Structures)"
+    }, {
+      "id": "CV362     ",
+      "name": "建筑工程施工(Building Construction)"
+    }, {
+      "id": "CV423     ",
+      "name": "钢结构设计(Steel Structure Design)"
+    }, {
+      "id": "CV439     ",
+      "name": "隧道与地下工程(Tunneling and Underground Engineering\r\n)"
+    }, {
+      "id": "CV310     ",
+      "name": "岩石力学(Rock Mechanics)"
+    }, {
+      "id": "CV300     ",
+      "name": "基坑工程（A类）(Excavation Engineering\r\n)"
+    }, {
+      "id": "CV364     ",
+      "name": "地下工程施工(Underground Construction)"
+    }]
+  },
+  {
+    "course": [{
+      "id": "01603062  ",
+      "name": "逻辑思维的训练(Training in Logical Thinking)"
+    }, {
+      "id": "LO901     ",
+      "name": "推理与思维训练(Reasoning Logic and Developing of Thinking Capacities)"
+    }, {
+      "id": "MA901     ",
+      "name": "数学与文化(Mathematics: A Cultural Approach)"
+    }, {
+      "id": "MA902     ",
+      "name": "统计原理(Principle of  Statistics)"
+    }, {
+      "id": "MA903     ",
+      "name": "数学之旅(The Journey of Mathematics)"
+    }, {
+      "id": "MA904     ",
+      "name": "数学与文化(Mathematics: A Cultural Approach)"
+    }, {
+      "id": "MA905     ",
+      "name": "随机模拟方法与应用(Stochastic Simulation Methods and Its Applications)"
+    }, {
+      "id": "ma906     ",
+      "name": "数学与科技进步(Mathematics and Progresses of Science & Technology)"
+    }, {
+      "id": "ma907     ",
+      "name": "数学史(A History of Mathematics)"
+    }, {
+      "id": "MA908     ",
+      "name": "数学的天空(The Mathematical Sky)"
+    }, {
+      "id": "MA909     ",
+      "name": "中国传统文化中的数学算法(Mathematical Algorithms in Chinese Traditional Culture)"
+    }, {
+      "id": "MA910     ",
+      "name": "数学赏析(Enjoy Mathematics)"
+    }, {
+      "id": "MA911     ",
+      "name": "数学史(A History of Mathematics)"
+    }]
+  },
+  {
+    "course": [{
+      "id": "01603822  ",
+      "name": "现代科技概论(AN OUTLINE OF MODERN SCIENCE AND TECHNOLOGY)"
+    }, {
+      "id": "AB901     ",
+      "name": "现代农业与生态文明(Modern Agriculture and Ecology Civilization)"
+    }, {
+      "id": "AM904     ",
+      "name": "工程可持续发展(Sustainable Development of Engineering)"
+    }, {
+      "id": "AU003     ",
+      "name": "系统仿真与控制(Simulation and Control of Dynamic Systems)"
+    }, {
+      "id": "BI001     ",
+      "name": "生命科学导论(Introduction to Life Science)"
+    }, {
+      "id": "BI034     ",
+      "name": "遗传与社会(Genetics and Society)"
+    }, {
+      "id": "BI062     ",
+      "name": "DNA的奥秘: 遗传物质的起源、进化、损伤与疾病(The Mystery of DNA: Origin, Evolution, Damage and Disease)"
+    }, {
+      "id": "BI900     ",
+      "name": "生命科学导论(Introduction to Life Science)"
+    }, {
+      "id": "BI901     ",
+      "name": "生命科学发展史(A History of Life Science)"
+    }, {
+      "id": "BI903     ",
+      "name": "生命科学实验探索(Experimental Exploration to Life Science)"
+    }, {
+      "id": "BI904     ",
+      "name": "海洋世界探秘(Marine and Extremophiles)"
+    }, {
+      "id": "BI905     ",
+      "name": "地球生命(Life on the Earth)"
+    }, {
+      "id": "BI906     ",
+      "name": "生物技术与人类(Biotechnology and Human Life)"
+    }, {
+      "id": "BI907     ",
+      "name": "基因与人(Genes And Human)"
+    }, {
+      "id": "BI910     ",
+      "name": "人体生命探秘(Life Mystery of Human body)"
+    }, {
+      "id": "BI911     ",
+      "name": "生物工程导论(Introduction to Bioengineering)"
+    }, {
+      "id": "BI912     ",
+      "name": "遗传学与社会(Genetics and Society)"
+    }, {
+      "id": "BI913     ",
+      "name": "生物技术与人类(Biotechnology and Human Life)"
+    }, {
+      "id": "BI914     ",
+      "name": "生命科技与人类生活(Life Science and Human Life)"
+    }, {
+      "id": "BI915     ",
+      "name": "微生物的世界(The Microbial World)"
+    }, {
+      "id": "BI916     ",
+      "name": "气味科学中的健康密码(The Health Password in Smell Science)"
+    }, {
+      "id": "BI917     ",
+      "name": "脑与日常行为(Brain and Everyday Behaviors)"
+    }, {
+      "id": "BI919     ",
+      "name": "生物工程与生物经济(Bioengineering and Bioeconomy)"
+    }, {
+      "id": "BM902     ",
+      "name": "药物发展:延续生命的奥秘(Drug Development ——The Mystery of Lasting Human Life)"
+    }, {
+      "id": "BM903     ",
+      "name": "大学生健康导论(Introduction to Health of Student)"
+    }, {
+      "id": "BM907     ",
+      "name": "传统医学与人类健康(Traditional Chinese Medicine and Human Health)"
+    }, {
+      "id": "CA901     ",
+      "name": "大学化学(College Chemistry)"
+    }, {
+      "id": "CA902     ",
+      "name": "在实验中探究化学(Exploring Chemistry in Experiment)"
+    }, {
+      "id": "CA903     ",
+      "name": "化学问题的实验研究(Experimental Research of Chemistry)"
+    }, {
+      "id": "CA904     ",
+      "name": "公共危机中的化学(The Chemical Problems in the Public Crisis Events)"
+    }, {
+      "id": "CS901     ",
+      "name": "程序设计思想与方法(Thinking and Approach of Programming)"
+    }, {
+      "id": "CS902     ",
+      "name": "程序设计思想与方法(Thinking and Approach of Programming)"
+    }, {
+      "id": "CS903     ",
+      "name": "大数据时代(The Dawn Of Big Data)"
+    }, {
+      "id": "CS904     ",
+      "name": "计算机科学中的伦理问题(Ethical Issues in Computer Science)"
+    }, {
+      "id": "EC901     ",
+      "name": "工程经济与管理(Engineering Economics and Management)"
+    }, {
+      "id": "EI901     ",
+      "name": "工程实践与科技创新I(Science and Technology Innovation (Part 1))"
+    }, {
+      "id": "ES901     ",
+      "name": "智能信息处理(Intelligent Information Processing)"
+    }, {
+      "id": "EV902     ",
+      "name": "环境与健康(Environment and Health)"
+    }, {
+      "id": "EV903     ",
+      "name": "灾害地质(Disaster Geology)"
+    }, {
+      "id": "FS901     ",
+      "name": "人类与饥饿(Feeding the World)"
+    }, {
+      "id": "FS902     ",
+      "name": "食品安全与科学理性(Scientific Rationality in Food Safety Crisis)"
+    }, {
+      "id": "IN901     ",
+      "name": "信息素养与实践(Information Literacy and Practice)"
+    }, {
+      "id": "ME901     ",
+      "name": "工程技术探究(Engineering Practice Exploration and Research)"
+    }, {
+      "id": "ME902     ",
+      "name": "脑与机器人(Electric Brain and Robotics)"
+    }, {
+      "id": "ME903     ",
+      "name": "创新思维与现代设计(Innovative Thinking and Modern Design)"
+    }, {
+      "id": "ME904     ",
+      "name": "形象思维与工程语言(Visualization Thinking and Engineering Language)"
+    }, {
+      "id": "ME905     ",
+      "name": "力学仿生——启示与探索(Mechanics bionics ( introduction and practice))"
+    }, {
+      "id": "ME906     ",
+      "name": "摄影及工程应用(Photography and Its  Application in Engineering)"
+    }, {
+      "id": "ME907     ",
+      "name": "工程心理学(Engineering Psychology)"
+    }, {
+      "id": "ME908     ",
+      "name": "机器的征途：空天科技(The Road of Robot: Technology of Aeronautics and Astronautics)"
+    }, {
+      "id": "ME909     ",
+      "name": "工程认知实践(Engineering Cognition Practice)"
+    }, {
+      "id": "ME910     ",
+      "name": "机电系统与生活(Electromechanical Systems in Our Life)"
+    }, {
+      "id": "ME911     ",
+      "name": "老龄化和健康技术的全球挑战(The Global Challenge of Ageing and Health Technology)"
+    }, {
+      "id": "MI901     ",
+      "name": "信息与感知(Information and Sensing)"
+    }, {
+      "id": "MT015     ",
+      "name": "纳米材料与表面科学(Nanomaterials and Surface Science)"
+    }, {
+      "id": "MT018     ",
+      "name": "工程材料与结构的力学行为(Mechanical Behavior of Engineering Materials and Structures)"
+    }, {
+      "id": "MT901     ",
+      "name": "材料与文明(The Materials of Civilization)"
+    }, {
+      "id": "mt902     ",
+      "name": "材料与生态(Materials & Ecology)"
+    }, {
+      "id": "MT903     ",
+      "name": "材料美学(Arts of Materials Science)"
+    }, {
+      "id": "MT904     ",
+      "name": "科学与艺术:材料科学与设计艺术(Science and Art:Material Science and Design Art)"
+    }, {
+      "id": "MT905     ",
+      "name": "材料与社会(Materials and Society)"
+    }, {
+      "id": "MT906     ",
+      "name": "走进纳米科学(An Introduction to Nano-science)"
+    }, {
+      "id": "MT907     ",
+      "name": "材料与环境(Materials and the Environment)"
+    }, {
+      "id": "NT901     ",
+      "name": "自然界中的混沌与分岔(Chaos and Bifurcation in Nature)"
+    }, {
+      "id": "NU920     ",
+      "name": "辐射及应用(Radiation and Its Applications)"
+    }, {
+      "id": "oc901     ",
+      "name": "海洋学导论(Introduction to Oceanography)"
+    }, {
+      "id": "OC902     ",
+      "name": "海洋可再生能源(Ocean Renewable Energy)"
+    }, {
+      "id": "PH062     ",
+      "name": "见微知著: 微观世界内的物理现象(One Tiny Clue Reveals the General Trend: Phenomena in Submicron World)"
+    }, {
+      "id": "PH901     ",
+      "name": "物理与文明(Physics and Civilization)"
+    }, {
+      "id": "PH902     ",
+      "name": "宇宙与人类(Universe and Human Beings)"
+    }, {
+      "id": "PH903     ",
+      "name": "量子波澜：历史与概念(The History and Concepts of Quantum Physics)"
+    }, {
+      "id": "PH904     ",
+      "name": "探索微观物质世界(Technological Methods for Microstructure Analysis)"
+    }, {
+      "id": "PH905     ",
+      "name": "从物理实验看世界(The World from the Eye of Physics Experiment)"
+    }, {
+      "id": "ph906     ",
+      "name": "量子力学(Quantum Mechanics)"
+    }, {
+      "id": "PH907     ",
+      "name": "能源物理(Physics of Energy)"
+    }, {
+      "id": "PO024     ",
+      "name": "可持续发展能源技术(Sustainable Energy Technologies)"
+    }, {
+      "id": "PO025     ",
+      "name": "新能源系统(New Energy System)"
+    }, {
+      "id": "po901     ",
+      "name": "低碳能源(Introduction of Low Carbon Energy)"
+    }, {
+      "id": "PO902     ",
+      "name": "能源与环境(Energy and Environment)"
+    }, {
+      "id": "PO903     ",
+      "name": "清洁能源技术：原理与应用(Clean Energy Technologies: Principle and Applications)"
+    }, {
+      "id": "PO904     ",
+      "name": "可再生能源(Renewable Energy)"
+    }, {
+      "id": "PO905     ",
+      "name": "从曼哈顿计划到当代能源危机：核能及其相关问题(From the Manhattan Project to Global Energy Crisis: Nuclear Energy and Related Issues)"
+    }, {
+      "id": "SO901     ",
+      "name": "人与环境(Environment and Human Beings)"
+    }, {
+      "id": "SO922     ",
+      "name": "人与环境(Environment and Human Beings)"
+    }, {
+      "id": "SY901     ",
+      "name": "系统思考与科学决策(Systems Thinking and Scientific Decision-making)"
+    }]
+  },
+  {
+    "course": [{
+      "id": "01103839  ",
+      "name": "文学人类学批评(The Criticism of Literary Anthropology)"
+    }, {
+      "id": "01103850  ",
+      "name": "汉字学概论(Introduction to Chinese Script)"
+    }, {
+      "id": "01103852  ",
+      "name": "汉字与文化(Chinese Characters and Culture)"
+    }, {
+      "id": "01103861  ",
+      "name": "金庸小说研究(Study of Jin Yong's Novel)"
+    }, {
+      "id": "01103880  ",
+      "name": "《礼记》导读(Introduction to \" The Book of Rites \")"
+    }, {
+      "id": "01603060  ",
+      "name": "《周易》哲学与经传导读(Introduction to the I Ching\r\n)"
+    }, {
+      "id": "01603063  ",
+      "name": "汉语言哲学(Linguistic Philosophy of Chinese)"
+    }, {
+      "id": "01603835  ",
+      "name": "心智哲学(Philosophy of Mind)"
+    }, {
+      "id": "01703065  ",
+      "name": "近代上海史(The Modern History of Shanghai)"
+    }, {
+      "id": "01703067  ",
+      "name": "犹太文明史(History of the Jewish Civilization)"
+    }, {
+      "id": "01703814  ",
+      "name": "德国社会史(The German Social History)"
+    }, {
+      "id": "01703819  ",
+      "name": "晚清外交史(The Diplomatic History of The Late Ching Dynasty)"
+    }, {
+      "id": "01703822  ",
+      "name": "知识分子史与思想文化研究(History of Intellectuals and Studies on Ideology and Culture)"
+    }, {
+      "id": "01703837  ",
+      "name": "近三百年学术史新论(上)(History of Chinese Academic Research in Recent Three Hundred Yeas(I))"
+    }, {
+      "id": "01703845  ",
+      "name": "国际关系史专题(The History of International Relations)"
+    }, {
+      "id": "01703852  ",
+      "name": "世界文化史(History of the Culture in the World)"
+    }, {
+      "id": "01703870  ",
+      "name": "中国近代政治制度史1840-1949(History of Chinese Political System:1840--1949)"
+    }, {
+      "id": "11101802  ",
+      "name": "伦理学(Ethics)"
+    }, {
+      "id": "AD903     ",
+      "name": "广告的力量(Advertising Creation and Design)"
+    }, {
+      "id": "AM923     ",
+      "name": "创新与创业(Innovation and Entrepreneurship)"
+    }, {
+      "id": "AR901     ",
+      "name": "建筑赏析(Architecture Appreciation)"
+    }, {
+      "id": "AR902     ",
+      "name": "图形创意设计(Creative Design for Graphic)"
+    }, {
+      "id": "AR903     ",
+      "name": "设计创新的艺术(The Art of Design Innovation)"
+    }, {
+      "id": "AR904     ",
+      "name": "图像遗产与中国古代艺术(Pictorial Heritage and the Arts of Ancient China)"
+    }, {
+      "id": "AR905     ",
+      "name": "西方艺术导论:从文艺复兴到现代(Introduction to Western Art from Renaissance to the Present)"
+    }, {
+      "id": "AR906     ",
+      "name": "西方艺术导论：从史前时期到中世纪(Survey of Western Art from Prehistoric to Medieval)"
+    }, {
+      "id": "AR907     ",
+      "name": "全球化与建筑(Globalization and Architecture)"
+    }, {
+      "id": "BI902     ",
+      "name": "生命伦理学(Bioethics)"
+    }, {
+      "id": "BM901     ",
+      "name": "中医药与中华传统文化(The Culture of Traditional Chinese Medicine)"
+    }, {
+      "id": "CH901     ",
+      "name": "大学语文(Chinese Language and Literature)"
+    }, {
+      "id": "CH902     ",
+      "name": "唐诗宋词人文解读(Appreciation of Tang and Song Poetry)"
+    }, {
+      "id": "CH903     ",
+      "name": "20世纪中国文学名著欣赏(Appreciation on the 20th Century's Chinese Famous Works)"
+    }, {
+      "id": "CH904     ",
+      "name": "汉字文化(Chinese Characters and Culture)"
+    }, {
+      "id": "CH905     ",
+      "name": "老庄元典选读(Selected  Readings from Zhuangzi and Laozi)"
+    }, {
+      "id": "ch906     ",
+      "name": "古典诗词鉴赏与创作(Appreciating and Writing of Chinese Classical Poems)"
+    }, {
+      "id": "CH907     ",
+      "name": "《文心雕龙》导读(Introduction to the Book of Literary Design(Wen Xin Diao Long))"
+    }, {
+      "id": "CH908     ",
+      "name": "词论研究(Study on Theory of Ci)"
+    }, {
+      "id": "CH909     ",
+      "name": "古代汉语词汇专题研究(Selected Issues in Ancient Chinese Vocabulary)"
+    }, {
+      "id": "CH910     ",
+      "name": "小说经典与中国文化(Classic Novel and Chinese Culture)"
+    }, {
+      "id": "ch911     ",
+      "name": "外国文学史(Foreign Literature History(C))"
+    }, {
+      "id": "CH912     ",
+      "name": "历代名词人研究(A Study on Famous Poets of Ancient China)"
+    }, {
+      "id": "CH913     ",
+      "name": "儒家经典研读(Confucian Classics)"
+    }, {
+      "id": "CH914     ",
+      "name": "国学基础：春秋经三传(CHUNQIU and the Three Explanatory Works)"
+    }, {
+      "id": "CH915     ",
+      "name": "书法鉴赏与教育(Chinese Calligraphy Appreciation)"
+    }, {
+      "id": "CH916     ",
+      "name": "古诗词写作(Classical Chinese Poetry Writing)"
+    }, {
+      "id": "CH917     ",
+      "name": "中国古代文论导读(Ancient Chinese Literary Theory)"
+    }, {
+      "id": "CH918     ",
+      "name": "唐宋词研究(Study of Tang-song Ci)"
+    }, {
+      "id": "CH919     ",
+      "name": "唐宋词名篇精读(Close reading of Masterpieces in Tang and Song Lyric Ci)"
+    }, {
+      "id": "CH920     ",
+      "name": "楚辞(The Songs of Chu)"
+    }, {
+      "id": "CH921     ",
+      "name": "音韵学基础与诗词格律(Basis of Phonology and Poetry Rules)"
+    }, {
+      "id": "CH922     ",
+      "name": "语用学(Pragmatics)"
+    }, {
+      "id": "CH923     ",
+      "name": "近代诗文研究(Study of Poetry and Prose in Modern Chinese)"
+    }, {
+      "id": "CH924     ",
+      "name": "现代文学与文学汉语关系研究(Study on Relation between Literature Chinese and Chinese Contemporary Literature)"
+    }, {
+      "id": "CH925     ",
+      "name": "中日语言文学关系(Comparative Literature between Chinese and Japanese)"
+    }, {
+      "id": "ch926     ",
+      "name": "古典诗文名篇选读(Selected Classics of  Chinese Literature)"
+    }, {
+      "id": "CH927     ",
+      "name": "中国现代诗歌导读(Introduction to \r\nModern Chinese Poetry\r\n)"
+    }, {
+      "id": "ch928     ",
+      "name": "唐诗宋词人文解读(Appreciation  Of  Tang and Song  Poetry)"
+    }, {
+      "id": "CH929     ",
+      "name": "汉语与认知：由汉语看汉民族的认知特点(Understanding of the Ethnic Han's Cognitive Characters by Analyzing Chinese Language)"
+    }, {
+      "id": "CH930     ",
+      "name": "中国古代文学史(Chinese Traditional Literature History)"
+    }, {
+      "id": "CH931     ",
+      "name": "老庄元典选读(Selected  Readings from Zhuangzi and Laozi)"
+    }, {
+      "id": "CH932     ",
+      "name": "现代中国文学与文化(Modern Chinese Literature and Culture)"
+    }, {
+      "id": "CH933     ",
+      "name": "中国古代文学史(Chinese Traditional Literature History)"
+    }, {
+      "id": "CH934     ",
+      "name": "汉字文化(Chinese Characters and Culture)"
+    }, {
+      "id": "CH935     ",
+      "name": "《礼记》选读(Selected Readings of The Book of Rites（LiJi）)"
+    }, {
+      "id": "CH936     ",
+      "name": "中国现代小说选读(Selected  Readings of Modern  Chinese  Fiction)"
+    }, {
+      "id": "CH937     ",
+      "name": "当代中国经典作家导读(Introduction to Important Writers in Contemporary China)"
+    }, {
+      "id": "CH938     ",
+      "name": "经史子集与中国古典文明(JingShiZiJi（经史子集）and Chinese Classical Civilization)"
+    }, {
+      "id": "CH939     ",
+      "name": "中国现代文学与电影(Literature and Film in Modern China)"
+    }, {
+      "id": "CH940     ",
+      "name": "中国经典诗词与中华文化诠释(Chinese Classical Poems and the Culture of China)"
+    }, {
+      "id": "CH941     ",
+      "name": "汉字文化与书写(Culture and Handwriting of Chinese Characters)"
+    }, {
+      "id": "CI901     ",
+      "name": "跨文化交流(Intercultural Communication)"
+    }, {
+      "id": "CI902     ",
+      "name": "公众表达(Public Speaking)"
+    }, {
+      "id": "CI903     ",
+      "name": "演讲与口才(Speech and Eloquence)"
+    }, {
+      "id": "CL016     ",
+      "name": "卢梭及其思想(Rousseau and His Thoughts)"
+    }, {
+      "id": "CL019     ",
+      "name": "西方神话和西方价值观(Western Myths and Western Values)"
+    }, {
+      "id": "CL020     ",
+      "name": "苏醒的睡美人：语言的复兴及相互融合与社会福祉(Sleeping Beauties Awake: Language Revival, Cross-Fertilization and Social Wellbeing)"
+    }, {
+      "id": "CL021     ",
+      "name": "西班牙文化—基于历史和艺术(Spainish Culture---Based on History and Arts)"
+    }, {
+      "id": "CL901     ",
+      "name": "中外文化(Cultural History and Cross-Culture)"
+    }, {
+      "id": "CL902     ",
+      "name": "中国文化的全球传播(China Culture and Global Communication of Tactics and Method)"
+    }, {
+      "id": "CL903     ",
+      "name": "中国文化史八讲(Culture History of China)"
+    }, {
+      "id": "CL904     ",
+      "name": "《论语》、《孟子》选讲(Selected Readings from the Works of the Analects Confucius and the Works of Mencius)"
+    }, {
+      "id": "CL905     ",
+      "name": "鲁迅与中外文化(Luxun and Chinese Foreign Cultures)"
+    }, {
+      "id": "CL906     ",
+      "name": "胡适与中西文化(Hu Shi with Chinese and Western Culture)"
+    }, {
+      "id": "CL907     ",
+      "name": "世界华文文学专题(Study on the World Chinese Literature)"
+    }, {
+      "id": "CL908     ",
+      "name": "西方美术史(History of Western Arts)"
+    }, {
+      "id": "CL909     ",
+      "name": "女性文学与性别文化(Women's Literature and Gender Culture)"
+    }, {
+      "id": "CL910     ",
+      "name": "中国文化的全球传播(China Culture and Global Communication of Tactics and Method)"
+    }, {
+      "id": "CL911     ",
+      "name": "中国文化地理(Cultural Geography of China)"
+    }, {
+      "id": "CL912     ",
+      "name": "二十世纪西方思想文化潮流(Western Idea and Culture in the 20th Century)"
+    }, {
+      "id": "CL913     ",
+      "name": "文化学概论(An Introduction to Culturology)"
+    }, {
+      "id": "CL914     ",
+      "name": "《圣经》与西方文化(The Bible and the Western Culture)"
+    }, {
+      "id": "CL915     ",
+      "name": "欧洲文化导论(An Introduction to European Culture)"
+    }, {
+      "id": "CL916     ",
+      "name": "中日科技文化交流(The Communication of Science,Technology and Culture between China and Japan)"
+    }, {
+      "id": "CL917     ",
+      "name": "女性文学与性别文化(Women's Literature and Gender Culture)"
+    }, {
+      "id": "CL918     ",
+      "name": "神话与创意(Myth and Creativity)"
+    }, {
+      "id": "CL919     ",
+      "name": "当代西方人文艺术思潮(Contemprary Western Humanities and Art Thoughts)"
+    }, {
+      "id": "CL920     ",
+      "name": "西方古代文学(Literary Tradition in Western Antiquity)"
+    }, {
+      "id": "CL921     ",
+      "name": "欧洲文化遗产保护历程(History of Cultural Heritage Conservation in European Countries)"
+    }, {
+      "id": "CL922     ",
+      "name": "比较文化：中国与日本(Comparative Culture:China And Japan)"
+    }, {
+      "id": "CR901     ",
+      "name": "思维力与创造力(Logical Thinking Capability and Creativity)"
+    }, {
+      "id": "ED903     ",
+      "name": "大学使命与大学文化(The Mission & Culture of University)"
+    }, {
+      "id": "EN049     ",
+      "name": "莎士比亚戏剧(Shakespeare’s Drama)"
+    }, {
+      "id": "EN901     ",
+      "name": "英语写作(English Writing)"
+    }, {
+      "id": "EN902     ",
+      "name": "20世纪英美短篇小说选读(Selected Readings in 20th Century English and American Short Stories)"
+    }, {
+      "id": "EN903     ",
+      "name": "英语公众演讲(Public Speaking in English)"
+    }, {
+      "id": "EN904     ",
+      "name": "莎士比亚戏剧赏析(Shakespeare: Reading and Discussion)"
+    }, {
+      "id": "EN905     ",
+      "name": "英语经典名作赏析(Appreciation of English Classics)"
+    }, {
+      "id": "EN906     ",
+      "name": "英语短篇小说阅读教程(English Short Stories)"
+    }, {
+      "id": "EN907     ",
+      "name": "英国经典散文赏析(Exploring English Essay Classics)"
+    }, {
+      "id": "EN908     ",
+      "name": "学术英语交际:写作与发言(Academic Communication in English)"
+    }, {
+      "id": "EN909     ",
+      "name": "语言与大脑(Introduction to Language and Brain)"
+    }, {
+      "id": "EN910     ",
+      "name": "大学英语写作(College Composition)"
+    }, {
+      "id": "EN911     ",
+      "name": "小说史概论(The History of the Novel)"
+    }, {
+      "id": "EN912     ",
+      "name": "语言与大脑(Introduction to Language and Brain)"
+    }, {
+      "id": "FT901     ",
+      "name": "全球视野下的香港电影(Hong Kong Cinema through a Global Lens)"
+    }, {
+      "id": "GA901     ",
+      "name": "与风景的对话:中外园林艺术欣赏(Talk With The Scenery-- Appreciation of The Landscape Arts of China and The Foreign Countries)"
+    }, {
+      "id": "GA902     ",
+      "name": "中国古典园林分析(Analysis of Classical Chinese Gardens)"
+    }, {
+      "id": "HI056     ",
+      "name": "美国历史上的重大问题(Major Issues in American History)"
+    }, {
+      "id": "HI062     ",
+      "name": "历史上西方科学文化的东传与影响(The Dissemination and Impacts of Western Science and Culture in China: A Historical Introduction)"
+    }, {
+      "id": "HI064     ",
+      "name": "历史与比较视野下的中国不平等：基于1700年代以来(Inequality in China in Historical and Comparative Perspectives: New Insights from Big Data 1700-2000)"
+    }, {
+      "id": "HI900     ",
+      "name": "中国史绎(History of China)"
+    }, {
+      "id": "HI901     ",
+      "name": "天文学史(A History of Astronomy)"
+    }, {
+      "id": "HI902     ",
+      "name": "科学技术史(History of Science and Technology)"
+    }, {
+      "id": "HI903     ",
+      "name": "美国的文化与历史(American History and Culture)"
+    }, {
+      "id": "HI904     ",
+      "name": "历史视野下的美国文化(American Civilization)"
+    }, {
+      "id": "HI905     ",
+      "name": "中国现代史专题研究(Morden China History Studies)"
+    }, {
+      "id": "HI906     ",
+      "name": "考古与文博(Archaeology and Museology)"
+    }, {
+      "id": "HI907     ",
+      "name": "冷战史(Cold War History)"
+    }, {
+      "id": "HI908     ",
+      "name": "明清以来中西文化交流史(History of Sino-western Cultural Exchange After Ming and Qing Dynasty)"
+    }, {
+      "id": "HI909     ",
+      "name": "中国古代历史地理文献导读(Selected Readings in Ancient Chinese Historical Geography Works)"
+    }, {
+      "id": "HI910     ",
+      "name": "近世中国历史与文化(History and Culture \r\nof Imperial China 900-1800\r\n)"
+    }, {
+      "id": "HI911     ",
+      "name": "美国城市史(A History of the American City)"
+    }, {
+      "id": "HI912     ",
+      "name": "新革命史(New History of Revolution)"
+    }, {
+      "id": "HI913     ",
+      "name": "回忆录、口述史与20世纪中国(Memoirs, Oral history and the 20th Century China)"
+    }, {
+      "id": "HI914     ",
+      "name": "历史美学漫谈(Lectures on Aesthetic of History)"
+    }, {
+      "id": "HI915     ",
+      "name": "历史文献学方法与训练(The Exercises in Methodology of Documentation)"
+    }, {
+      "id": "HI917     ",
+      "name": "古代罗马史(History of ancient Rome)"
+    }, {
+      "id": "HI918     ",
+      "name": "春秋战国史(History of the Spring and Autumn Period)"
+    }, {
+      "id": "HI919     ",
+      "name": "新史学(New Historiography)"
+    }, {
+      "id": "HI920     ",
+      "name": "乌托邦思想史(The History of Utopian Thought)"
+    }, {
+      "id": "HI921     ",
+      "name": "历史视野下的美国文化(A Panoramic History of American Civilization)"
+    }, {
+      "id": "hi922     ",
+      "name": "科学的历史、价值和前瞻(History，Value and Prospect of Science)"
+    }, {
+      "id": "hi923     ",
+      "name": "英国的科学与文化——以维多利亚时代为中心(Science and Culture in Great Britain--Focus on Victorian Period)"
+    }, {
+      "id": "hi924     ",
+      "name": "中外文明交流(Civilization Exchange Between China and the World)"
+    }, {
+      "id": "hi925     ",
+      "name": "文明交往(Civilization Exchange)"
+    }, {
+      "id": "HI926     ",
+      "name": "近代世界发展史(The History of Development of Modern World)"
+    }, {
+      "id": "HI927     ",
+      "name": "世界文化史(Cultural History of the World)"
+    }, {
+      "id": "HI928     ",
+      "name": "美国历史上的重大问题(Major Issues in American History)"
+    }, {
+      "id": "HI929     ",
+      "name": "1945年以来的世界(The World Since 1945)"
+    }, {
+      "id": "HI930     ",
+      "name": "犹太人的历史(The History of Jews)"
+    }, {
+      "id": "HI931     ",
+      "name": "古希腊与现代欧洲(Ancient Greece and Modern Europe)"
+    }, {
+      "id": "HI932     ",
+      "name": "1865年后的美国历史(American History Since 1865)"
+    }, {
+      "id": "HI933     ",
+      "name": "20及21世纪世界历史(20-21 Century World History)"
+    }, {
+      "id": "HI934     ",
+      "name": "哥伦布大交换与现代世界的形成(Uncovering the New World Columbus Created)"
+    }, {
+      "id": "HI935     ",
+      "name": "中国现代史专题研究：团练、水师与北洋军阀(Research Topic on Modern Chinese History: Militia, Navy and Warlords)"
+    }, {
+      "id": "HI936     ",
+      "name": "中国古代科技(An Introduction to Ancient Chinese Science and Technology)"
+    }, {
+      "id": "HI937     ",
+      "name": "中国儒学史(History of Chinese Confucianism)"
+    }, {
+      "id": "HI938     ",
+      "name": "欧洲中世纪城市研究(European Medieval City Study)"
+    }, {
+      "id": "HI939     ",
+      "name": "古罗马文明(Ancient Roman Civilization)"
+    }, {
+      "id": "HI940     ",
+      "name": "中国近代史上的商人与社会(Merchants and society in Modern China)"
+    }, {
+      "id": "HI941     ",
+      "name": "苏联史(History of the Soviet Union)"
+    }, {
+      "id": "HU901     ",
+      "name": "大学人文(College Humanism)"
+    }, {
+      "id": "HU902     ",
+      "name": "爱的艺术与人生(Love,Art and Life)"
+    }, {
+      "id": "JC902     ",
+      "name": "当代传媒文化研究(Chinese Media and Popular Culture)"
+    }, {
+      "id": "JC903     ",
+      "name": "美学(Aesthetics)"
+    }, {
+      "id": "LE001     ",
+      "name": "历史与文化(Lectures on History and Culture)"
+    }, {
+      "id": "LI004     ",
+      "name": "诺贝尔文学奖获得者(Nobel Prize Winners in Literature)"
+    }, {
+      "id": "LI901     ",
+      "name": "文学与人生(Literature And Life)"
+    }, {
+      "id": "LI902     ",
+      "name": "比较文学专题研究(Issues in Comparative Literature)"
+    }, {
+      "id": "LI903     ",
+      "name": "英美名诗赏析(Appreciation of Classic English Poems)"
+    }, {
+      "id": "LI904     ",
+      "name": "西方“狼”文学研究(Study on Wolf Literature in West)"
+    }, {
+      "id": "LI905     ",
+      "name": "俄罗斯文学研究(Russian Literature)"
+    }, {
+      "id": "LI906     ",
+      "name": "现代小说中的革命与爱情(Revolution and Love in Modern Chinese Literature)"
+    }, {
+      "id": "LI907     ",
+      "name": "传记经典导读(An Introduction to Classic Life Writings)"
+    }, {
+      "id": "LI908     ",
+      "name": "西洋文学经典导读：古典到启蒙时期(Classics of Western Literature: Antiquity to Enlightenment)"
+    }, {
+      "id": "LI909     ",
+      "name": "视听文化与现代文学(Visual-Auditory Culture and Modern Chinese Literature)"
+    }, {
+      "id": "MC901     ",
+      "name": "中国历史人文地理(Chinese Historical Geography)"
+    }, {
+      "id": "MC902     ",
+      "name": "中华诗词之美(The Beauty of Chinese Poetry)"
+    }, {
+      "id": "MC903     ",
+      "name": "什么是科学(The Meaning of Science)"
+    }, {
+      "id": "MU901     ",
+      "name": "交响音乐鉴赏(Symphonic  Music   Appreciation)"
+    }, {
+      "id": "MU902     ",
+      "name": "中西乐理及其应用(Music Theory)"
+    }, {
+      "id": "MU903     ",
+      "name": "世界民族音乐鉴赏(World Ethnic Music Appreciation)"
+    }, {
+      "id": "PE901     ",
+      "name": "体育文化(Sport Culture)"
+    }, {
+      "id": "PE902     ",
+      "name": "运动技能与健身(Sports and Fitness)"
+    }, {
+      "id": "PI900     ",
+      "name": "哲学概论(Introduction to Philosophy)"
+    }, {
+      "id": "PI901     ",
+      "name": "哲学智慧与创新思维(Philosophical Wisdom and Innovative Thinking)"
+    }, {
+      "id": "PI902     ",
+      "name": "马克思哲学经典著作导读(Introduction to Marx's Philosophical Classic)"
+    }, {
+      "id": "PI903     ",
+      "name": "基督教哲学(The Philosophy of Christianity\r\n)"
+    }, {
+      "id": "PI904     ",
+      "name": "认识论研究(Epistemology)"
+    }, {
+      "id": "PI905     ",
+      "name": "西方伦理学史(History of Western Ethics)"
+    }, {
+      "id": "PI906     ",
+      "name": "佛教与中国传统文化(Buddhism   and   the  Traditonal  Culture  of   China)"
+    }, {
+      "id": "PI907     ",
+      "name": "哲学·科学·技术(Philosophy , Science and Technology)"
+    }, {
+      "id": "PI908     ",
+      "name": "马克思与形而上学研究(Marx and Metaphysics)"
+    }, {
+      "id": "PI909     ",
+      "name": "逻辑哲学(Philosophy of Logic)"
+    }, {
+      "id": "PI910     ",
+      "name": "科学哲学(Philosophy of Science)"
+    }, {
+      "id": "PI911     ",
+      "name": "宗教伦理学(Religious Ethics)"
+    }, {
+      "id": "PI912     ",
+      "name": "基督教哲学(Philosophy of Christianity)"
+    }, {
+      "id": "PI913     ",
+      "name": "西方哲学史(The History of Western Philosophy)"
+    }, {
+      "id": "pi914     ",
+      "name": "中医与传统文化(The Culture of Traditional Chinese Medicine)"
+    }, {
+      "id": "PI915     ",
+      "name": "科学思想和认识论(Scientific Thought and Epistemology)"
+    }, {
+      "id": "PI916     ",
+      "name": "科学哲学(Philosophy of Science)"
+    }, {
+      "id": "PI919     ",
+      "name": "西方哲学史(The History of Western Philosophy)"
+    }, {
+      "id": "PI920     ",
+      "name": "德国古典哲学与文化(German Philosophy and Culture)"
+    }, {
+      "id": "PI921     ",
+      "name": "德国古典哲学与文化(German Philosophy and Culture)"
+    }, {
+      "id": "PI922     ",
+      "name": "语言和思维(Language and Thought)"
+    }, {
+      "id": "PI923     ",
+      "name": "中国宗教(Religions of China)"
+    }, {
+      "id": "PI924     ",
+      "name": "世界宗教(World Religions)"
+    }, {
+      "id": "PI925     ",
+      "name": "西方哲学经典导读(Classics in Western Philosophy)"
+    }, {
+      "id": "PI926     ",
+      "name": "中国哲学经典选读(Chinese Philosophy Classics Intensive Reading)"
+    }, {
+      "id": "PI927     ",
+      "name": "哲学与方法论(Philosophy and Its Methodology)"
+    }, {
+      "id": "PI928     ",
+      "name": "国学经典《道德经》与中西文化交流(Dao De Jing and Intercultural Communication)"
+    }, {
+      "id": "PL901     ",
+      "name": "国花、市花鉴赏(Appreciation of National & China City Flowers)"
+    }, {
+      "id": "PL902     ",
+      "name": "国花、市花与文化(National Flower, City Flower and Culture)"
+    }, {
+      "id": "PS907     ",
+      "name": "积极心理学(Positive Psychology)"
+    }, {
+      "id": "PS909     ",
+      "name": "积极心理学(Positive Psychology)"
+    }, {
+      "id": "SO902     ",
+      "name": "文化的魅力(Cultural Charm)"
+    }, {
+      "id": "SO903     ",
+      "name": "环境变化与中华文明(Environment Change and Chinese Civilization)"
+    }, {
+      "id": "SO904     ",
+      "name": "古希腊文明演绎(An Introductory Course of Ancient Greek Civilization)"
+    }, {
+      "id": "so905     ",
+      "name": "创造力与创意思维(Creative Ability and Thinking)"
+    }, {
+      "id": "SO913     ",
+      "name": "文化研究导论(Introduction to Cultural Studies)"
+    }, {
+      "id": "SO935     ",
+      "name": "艺术、媒介与创造性思维(Art and Media: Creative Thinking)"
+    }, {
+      "id": "SO939     ",
+      "name": "大众传媒与文化(The Culture of Mass Media)"
+    }, {
+      "id": "TO901     ",
+      "name": "中国的世界文化与自然遗产(The World Cultural and Natural Heritage Sites in China)"
+    }, {
+      "id": "WA901     ",
+      "name": "孙子兵法(Sun Tzu’s Art of War)"
+    }]
+  },
+  {
+    "course": [{
+      "id": "PE001     ",
+      "name": "体育（1）(Physical Education I)"
+    }, {
+      "id": "TH004     ",
+      "name": "军事理论(Military Theory)"
+    }, {
+      "id": "TH000     ",
+      "name": "思想道德修养与法律基础(Cultivation of Ethics and Fundamentals of Law)"
+    }, {
+      "id": "TH028     ",
+      "name": "中国近现代史纲要(Modern Chinese History)"
+    }, {
+      "id": "PE002     ",
+      "name": "体育（2）(Physical Education II)"
+    }, {
+      "id": "XP004     ",
+      "name": "新时代社会认知实践(Social Cognitive Practice in the New Era)"
+    }, {
+      "id": "TH007     ",
+      "name": "马克思主义基本原理(Basic Theory of Marxism)"
+    }, {
+      "id": "PE003     ",
+      "name": "体育（3）(Physical Education III)"
+    }, {
+      "id": "TH029     ",
+      "name": "毛泽东思想和中国特色社会主义理论体系概论(Introduction to Mao Zedong's Thoughts and Theoretical System of Socialism with Chinese Characteristics)"
+    }, {
+      "id": "PE004     ",
+      "name": "体育（4）(Physical Education IV)"
+    }, {
+      "id": "EN061     ",
+      "name": "大学英语（1）(College English Ⅰ)"
+    }, {
+      "id": "EN062     ",
+      "name": "大学英语（2）(College English Ⅱ)"
+    }, {
+      "id": "EN063     ",
+      "name": "大学英语（3）(College English Ⅲ)"
+    }, {
+      "id": "EN064     ",
+      "name": "大学英语（4）(College English Ⅳ)"
+    }, {
+      "id": "EN065     ",
+      "name": "大学英语（5）(College English Ⅴ)"
+    }]
+  },
+  {
+    "course": []
+  },
+  {
+    "course": [{
+      "id": "TH010     ",
+      "name": "军训(Military Training)"
+    }, {
+      "id": "ME210     ",
+      "name": "工程实践(Engineering Practice)"
+    }, {
+      "id": "CV202     ",
+      "name": "认识实习(Cognitive Practice)"
+    }, {
+      "id": "CV206     ",
+      "name": "测量实习(Practice for Measurement)"
+    }, {
+      "id": "CV376     ",
+      "name": "建筑工程施工实习(Building Construction Practice)"
+    }, {
+      "id": "CV377     ",
+      "name": "地下工程施工实习(Underground Construction Practice)"
+    }]
+  },
+  {
+    "course": [{
+      "id": "MA080     ",
+      "name": "高等数学（A）（1）(Calculus I)"
+    }, {
+      "id": "MA077     ",
+      "name": "线性代数（B类）(Linear Algebra)"
+    }, {
+      "id": "ME116     ",
+      "name": "工程学导论(Introduction to Engineering)"
+    }, {
+      "id": "CA001     ",
+      "name": "大学化学(Chemistry)"
+    }, {
+      "id": "CS154     ",
+      "name": "程序设计思想与方法（C++）(Thinking and Approach  of Programming)"
+    }, {
+      "id": "MA081     ",
+      "name": "高等数学（A）（2）(Calculus II)"
+    }, {
+      "id": "PH001     ",
+      "name": "大学物理（A类）（1）(Physics I)"
+    }, {
+      "id": "EI203     ",
+      "name": "基本电路理论(Fundamental Circuit Theory)"
+    }, {
+      "id": "MA119     ",
+      "name": "概率统计(Probability and Statistics)"
+    }, {
+      "id": "PH002     ",
+      "name": "大学物理（A类）（2）(Physics II)"
+    }, {
+      "id": "EM215     ",
+      "name": "理论力学(Theoretical Mechanics)"
+    }, {
+      "id": "MA097     ",
+      "name": "数理方法(Mathematical Methods in Physics)"
+    }, {
+      "id": "CS149     ",
+      "name": "数据结构(Data Structure)"
+    }, {
+      "id": "EM207     ",
+      "name": "材料力学(Mechanics of  Materials\r\n)"
+    }, {
+      "id": "CV104     ",
+      "name": "土木工程概论(Civil Engineering Introduction)"
+    }]
+  },
+  {
+    "course": []
+  },
+  {
+    "course": []
+  },
+  {
+    "course": [{
+      "id": "CA044     ",
+      "name": "大学化学实验(Chemistry Lab)"
+    }, {
+      "id": "PH028     ",
+      "name": "大学物理实验（1）(Physics Lab. I)"
+    }, {
+      "id": "EI204     ",
+      "name": "基本电路实验(Basic Circuit Lab.)"
+    }, {
+      "id": "PH029     ",
+      "name": "大学物理实验（2）(Physics Lab. II)"
+    }, {
+      "id": "EM212     ",
+      "name": "工程力学实验(Engineering Mechanics Experiment)"
+    }]
+  },
+  {
+    "course": [{
+      "id": "01603050  ",
+      "name": "科学与宗教(Science and Religion)"
+    }, {
+      "id": "01703087  ",
+      "name": "美国外交决策研究(American Foreign Policy-making Studies)"
+    }, {
+      "id": "11103006  ",
+      "name": "中国社会政治分析(Analysis of Chinese Society and Politics)"
+    }, {
+      "id": "11103876  ",
+      "name": "当代中国政治制度(Contemporary Chinese Political System)"
+    }, {
+      "id": "11103879  ",
+      "name": "比较政党制度(A Comparative Study on Political Party System)"
+    }, {
+      "id": "11201807  ",
+      "name": "刑事诉讼法(Criminal Procedure Law)"
+    }, {
+      "id": "11201811  ",
+      "name": "民事诉讼法(Civil Procedure Law)"
+    }, {
+      "id": "11203807  ",
+      "name": "市场管理法(Law of Market Control)"
+    }, {
+      "id": "11203811  ",
+      "name": "房地产法(Real Estate Law)"
+    }, {
+      "id": "11301834  ",
+      "name": "社会主义理论与实践(Theory and Practice of Socialism)"
+    }, {
+      "id": "11303807  ",
+      "name": "当代中国政府与政治(Contemporary Chinese Government and Politics)"
+    }, {
+      "id": "11303849  ",
+      "name": "比较政党制度(Comparison of Political Party System)"
+    }, {
+      "id": "11401813  ",
+      "name": "城市社会学(Urban Sociology \r\n)"
+    }, {
+      "id": "11401819  ",
+      "name": "人口社会学(Sociology of Population\r\n)"
+    }, {
+      "id": "11403849  ",
+      "name": "儿童/青少年社会工作(Social Work for Children and Juveniles)"
+    }, {
+      "id": "11403899  ",
+      "name": "“性”社会学(Sociology of Sexuality)"
+    }, {
+      "id": "11501824  ",
+      "name": "公共关系理论与实践(Public Relations Theory and Practice)"
+    }, {
+      "id": "11503809  ",
+      "name": "沟通管理(Communication in Management)"
+    }, {
+      "id": "11601806  ",
+      "name": "社会福利概论(Introduction to Social Welfare)"
+    }, {
+      "id": "am901     ",
+      "name": "管理哲学(Managerial Philosophy)"
+    }, {
+      "id": "AM902     ",
+      "name": "企业文化(Corporate Culture)"
+    }, {
+      "id": "AM903     ",
+      "name": "企业战略管理(Enterprise Strategic Management)"
+    }, {
+      "id": "AM922     ",
+      "name": "创业基础(Foundation of Entrepreneurship)"
+    }, {
+      "id": "BM904     ",
+      "name": "性与健康(Sex and Health)"
+    }, {
+      "id": "BM905     ",
+      "name": "诺贝尔医学奖(Nobel Prize in Medicine)"
+    }, {
+      "id": "BM906     ",
+      "name": "性与健康(Sex and Health)"
+    }, {
+      "id": "BM908     ",
+      "name": "普通心理学(General Psychology)"
+    }, {
+      "id": "BM909     ",
+      "name": "社会精神医学(Social Psychiatry)"
+    }, {
+      "id": "BU909     ",
+      "name": "管理心理学(Managerial Psychology)"
+    }, {
+      "id": "BU910     ",
+      "name": "人力资源开发与管理(Human Resource Development and Management)"
+    }, {
+      "id": "BU911     ",
+      "name": "消费者行为(Behavioral Science of Consumer)"
+    }, {
+      "id": "CL022     ",
+      "name": "当今的生态批评(Ecological Criticism Today)"
+    }, {
+      "id": "EC902     ",
+      "name": "城市经济学(Urban Economics)"
+    }, {
+      "id": "ec903     ",
+      "name": "《资本论》选读(Introduction to the Capital)"
+    }, {
+      "id": "EC904     ",
+      "name": "比较经济体制研究(Studies on Comparative Economic Systems)"
+    }, {
+      "id": "EC905     ",
+      "name": "媒体创意经济(The Media Creativity Economics)"
+    }, {
+      "id": "EC907     ",
+      "name": "微观经济学(Microeconomics)"
+    }, {
+      "id": "EC908     ",
+      "name": "宏观经济学(Macroeconomics)"
+    }, {
+      "id": "ED901     ",
+      "name": "教育社会学(Educational Sociology \r\n)"
+    }, {
+      "id": "ED902     ",
+      "name": "教育管理学(Educational Management)"
+    }, {
+      "id": "EV901     ",
+      "name": "环境与可持续发展(Environment and Sustainable Development)"
+    }, {
+      "id": "JC904     ",
+      "name": "广告运作策略(Principles and Strategic Choices of Advertisements)"
+    }, {
+      "id": "JC905     ",
+      "name": "新媒体与社会(New Media and Society)"
+    }, {
+      "id": "LA020     ",
+      "name": "知识产权反垄断规制——中韩发展之比较(Regulations over IPR Licensing - A Comparative Perspective Between Chinese Antimonopoly Law and Korean Competition Law)"
+    }, {
+      "id": "LA021     ",
+      "name": "中美环境法与环境治理的比较(China and America: America's Century? China's Century? Or the Environment's Century? An Introduction to Comparative and Global Environmental Governance)"
+    }, {
+      "id": "LA022     ",
+      "name": "风险社会中全球行政法与行政规制管理政策(Global Administrative Law & Regulatory Policy in Risk Society)"
+    }, {
+      "id": "LA907     ",
+      "name": "法律与社会(Law and Society)"
+    }, {
+      "id": "LA908     ",
+      "name": "投资创业与民商法文化(Business Start-up and Business Law)"
+    }, {
+      "id": "LA909     ",
+      "name": "人权与大国关系(Human Rights and Great Power Relations)"
+    }, {
+      "id": "LA910     ",
+      "name": "法律思维与法学经典阅读(Thought of Law and Understanding of Classic Law Books)"
+    }, {
+      "id": "LA911     ",
+      "name": "法律与道德(Law and Morality)"
+    }, {
+      "id": "LA912     ",
+      "name": "美国宪法与美国社会(American Constitution and American Society)"
+    }, {
+      "id": "LA913     ",
+      "name": "经济与法律(Economy and Law)"
+    }, {
+      "id": "la914     ",
+      "name": "信用与法律(Credit and Law)"
+    }, {
+      "id": "la915     ",
+      "name": "刑法与生活(Criminal Law and Life)"
+    }, {
+      "id": "LA916     ",
+      "name": "房地产法(Real Estate Law)"
+    }, {
+      "id": "LA917     ",
+      "name": "国际法(International Law)"
+    }, {
+      "id": "LA918     ",
+      "name": "婚姻家庭法(Marriage and Family law)"
+    }, {
+      "id": "la919     ",
+      "name": "劳动法(Labor Law)"
+    }, {
+      "id": "LA920     ",
+      "name": "外国法制史(History of Foreign Legal System)"
+    }, {
+      "id": "LA921     ",
+      "name": "行政法(Administrative Law)"
+    }, {
+      "id": "LA922     ",
+      "name": "民法(Civil Law)"
+    }, {
+      "id": "LA923     ",
+      "name": "刑法(Criminal Law)"
+    }, {
+      "id": "LA924     ",
+      "name": "比较法律文化(Comparative Legal Culltures)"
+    }, {
+      "id": "LA925     ",
+      "name": "经济全球化与中国的崛起(Economic Globalization and the Rise of China)"
+    }, {
+      "id": "la926     ",
+      "name": "规则与善治(Rules by Well-governance)"
+    }, {
+      "id": "LA927     ",
+      "name": "宪政与人权(Constitutionalism and Human Rights)"
+    }, {
+      "id": "LA928     ",
+      "name": "法学名著选读                                      "
+    }, {
+      "id": "LA929     ",
+      "name": "宪法学(Constitutional Law)"
+    }, {
+      "id": "LA930     ",
+      "name": "谈判理论与实践(Negotiation Theory and Practice)"
+    }, {
+      "id": "LA931     ",
+      "name": "武装冲突与人道主义(Armed Conflict & Humanitarianism)"
+    }, {
+      "id": "LA932     ",
+      "name": "西方司法与文化(Western Legal System and Its Culture)"
+    }, {
+      "id": "LA933     ",
+      "name": "宪政与人权(Constitutionalism and Human Rights)"
+    }, {
+      "id": "LA934     ",
+      "name": "生活中的民法(Civil Law in Our Daily Life)"
+    }, {
+      "id": "LA935     ",
+      "name": "经济全球化与中国的崛起(Economic Globalization and the Rise of China)"
+    }, {
+      "id": "LA936     ",
+      "name": "隐私保护立法：法律和技术(Privacy Legislation: Law and Technology)"
+    }, {
+      "id": "PI027     ",
+      "name": "现代伦理学(Modern Ethics)"
+    }, {
+      "id": "ps906     ",
+      "name": "大学生健康心理学(Health Psychology)"
+    }, {
+      "id": "PS908     ",
+      "name": "管理心理学(Managerial Psychology)"
+    }, {
+      "id": "PS910     ",
+      "name": "积极心理学(Positive Psychology)"
+    }, {
+      "id": "PS911     ",
+      "name": "心理学原理(Introductory Psychology: Principles of Psychology)"
+    }, {
+      "id": "PU089     ",
+      "name": "国际政治(International Politics)"
+    }, {
+      "id": "PU101     ",
+      "name": "现代日本政治(Modern Japanese Politics)"
+    }, {
+      "id": "PU901     ",
+      "name": "民主的智慧(Wisdom of Democracy)"
+    }, {
+      "id": "PU902     ",
+      "name": "当代中国社会问题(Social Problem in Contemporary China)"
+    }, {
+      "id": "PU903     ",
+      "name": "战争与和平：中国崛起中的战争与战略问题(War and Peace: Issues of Wars and Strategies in China`s Rise)"
+    }, {
+      "id": "PU904     ",
+      "name": "法律与公共政策(Law and Public Policy)"
+    }, {
+      "id": "PU905     ",
+      "name": "心理学与生活(Psychology and Life)"
+    }, {
+      "id": "PU906     ",
+      "name": "经济与社会伦理(Economics  and  Social Ethics)"
+    }, {
+      "id": "PU907     ",
+      "name": "公共政策与公民生活(Public Policy and Civic Life)"
+    }, {
+      "id": "PU908     ",
+      "name": "中俄关系的演变与展望(Sino-Russian Relationship: Past,Present and Future)"
+    }, {
+      "id": "PU909     ",
+      "name": "现代日本政治(Contemporary Japanese Politics)"
+    }, {
+      "id": "PU910     ",
+      "name": "城市文明的历史与未来(History and Future of Urban Civilization)"
+    }, {
+      "id": "pu911     ",
+      "name": "政府与市场(Government and Market)"
+    }, {
+      "id": "PU912     ",
+      "name": "公共关系心理学(Psychology of Public Relations)"
+    }, {
+      "id": "PU913     ",
+      "name": "中国外交(China's Foreign Affairs)"
+    }, {
+      "id": "PU914     ",
+      "name": "当代中国外交(Contemporary Diplomacy of China)"
+    }, {
+      "id": "PU915     ",
+      "name": "城市文明的历史与未来(History and Future of Urban Civilization)"
+    }, {
+      "id": "PU916     ",
+      "name": "现代日本政治(Contemporary Japanese Politics)"
+    }, {
+      "id": "PU917     ",
+      "name": "政治经济学经典导读(Classic Readings in Political Economy)"
+    }, {
+      "id": "PU918     ",
+      "name": "美国公共政策制定(Public Policy Making in the United States)"
+    }, {
+      "id": "PU919     ",
+      "name": "中国政治思想史(History of Chinese Political Thoughts)"
+    }, {
+      "id": "PU920     ",
+      "name": "西方政治思想史(History of Western Political Thought)"
+    }, {
+      "id": "PU921     ",
+      "name": "行政管理学(Public Administration)"
+    }, {
+      "id": "PU922     ",
+      "name": "政治心理学(Political Psychology)"
+    }, {
+      "id": "PU923     ",
+      "name": "公共预算管理(Public Budget Management)"
+    }, {
+      "id": "PU924     ",
+      "name": "组织行为学(Organizational Behavior)"
+    }, {
+      "id": "PU925     ",
+      "name": "东亚政治(Politics in East Asia)"
+    }, {
+      "id": "PU926     ",
+      "name": "国际政治学名著选读(Selected Masterpieces on International Politics)"
+    }, {
+      "id": "PU927     ",
+      "name": "现代政治理论(Modern Political Theory)"
+    }, {
+      "id": "PU928     ",
+      "name": "公务员制度(Civil Service System)"
+    }, {
+      "id": "PU929     ",
+      "name": "公共关系伦理(Ethics in Public Relations)"
+    }, {
+      "id": "PU930     ",
+      "name": "公共关系经典案例评析                              "
+    }, {
+      "id": "PU931     ",
+      "name": "公共关系学前沿专题(Current Issues In  Public Relations)"
+    }, {
+      "id": "PU932     ",
+      "name": "民族主义与族群政治(Nationalism and Ethnic Politics)"
+    }, {
+      "id": "PU933     ",
+      "name": "政治人的成长(Political Man)"
+    }, {
+      "id": "PU934     ",
+      "name": "政治经济学经典导读(Classic Readings in Political Economy)"
+    }, {
+      "id": "PU935     ",
+      "name": "美国公共政策制定(Public Policy Making in the United States(B))"
+    }, {
+      "id": "PU936     ",
+      "name": "民族主义与族群政治(Nationalism and Ethnic Politics)"
+    }, {
+      "id": "PU937     ",
+      "name": "大国战略(Grand Strategies of the Powers)"
+    }, {
+      "id": "PU938     ",
+      "name": "治理之善：公共行政热点解析(The Good of Governing: Analysis on the Hot Issues of Public Administration)"
+    }, {
+      "id": "PU939     ",
+      "name": "大国战略(The Strategies of the Powers)"
+    }, {
+      "id": "PU940     ",
+      "name": "社会政策：公平与福祉(Social Policy: Equity and Well-being)"
+    }, {
+      "id": "PU941     ",
+      "name": "领导力学习与实践(Leadership Practicing & Learning)"
+    }, {
+      "id": "PU942     ",
+      "name": "政治的边界与逻辑(The Logic and Boundary of Politics)"
+    }, {
+      "id": "PU943     ",
+      "name": "中国医疗保险制度的转型发展与创新(The Transitional Development and Innovation of Health Care System in China)"
+    }, {
+      "id": "PU944     ",
+      "name": "当代国际关系与研究实践(Theories and Empirical Studies of International Relations)"
+    }, {
+      "id": "PU978     ",
+      "name": "新时代公共外交解析(Analysis of Public Diplomacy in the New Era)"
+    }, {
+      "id": "PU979     ",
+      "name": "二战以来的美国总统和中美关系(American Presidents and U.S.-China Relations since the End of World War II)"
+    }, {
+      "id": "PU980     ",
+      "name": "中美关系史(History of U.S.-China Relations)"
+    }, {
+      "id": "PU981     ",
+      "name": "组织文化研究(Studies on  Organizational Culture)"
+    }, {
+      "id": "PU982     ",
+      "name": "国际政治经济学的源与流(International Political Economical Theory and Schools)"
+    }, {
+      "id": "SO054     ",
+      "name": "全球视野下的美利坚(The United States in a Global Perspective)"
+    }, {
+      "id": "SO900     ",
+      "name": "社会学(Sociology)"
+    }, {
+      "id": "SO906     ",
+      "name": "台湾研究(Introduction to Taiwan Studies)"
+    }, {
+      "id": "SO907     ",
+      "name": "社会主义理论与实践(Theory and Practice of Socialism)"
+    }, {
+      "id": "SO908     ",
+      "name": "传媒社会学(Media and Society)"
+    }, {
+      "id": "SO909     ",
+      "name": "当代西方政治思潮(Modern Western Political Thought)"
+    }, {
+      "id": "SO910     ",
+      "name": "国际组织学(International Organization)"
+    }, {
+      "id": "SO911     ",
+      "name": "农村社会学(Rural Sociology)"
+    }, {
+      "id": "SO912     ",
+      "name": "人类行为与社会环境(Human Behavior and Social Environment)"
+    }, {
+      "id": "SO914     ",
+      "name": "西方社会学理论(Western Sociological Theory)"
+    }, {
+      "id": "SO915     ",
+      "name": "西欧社会分层研究(Social Stratification in Western Europe)"
+    }, {
+      "id": "SO916     ",
+      "name": "消费社会学(Sociology of Consumption)"
+    }, {
+      "id": "SO917     ",
+      "name": "宣传工作理论与方法(Publicity:Theory and Method)"
+    }, {
+      "id": "SO918     ",
+      "name": "学校社会工作\r\n(School Social Work)"
+    }, {
+      "id": "SO919     ",
+      "name": "中国社会(Chinese Society)"
+    }, {
+      "id": "SO920     ",
+      "name": "当代中国社会问题(Modern Social Problem in China)"
+    }, {
+      "id": "SO921     ",
+      "name": "西方社会思想史(History of Western Social Thought)"
+    }, {
+      "id": "SO923     ",
+      "name": "新闻媒介与社会(News Media and Society)"
+    }, {
+      "id": "SO924     ",
+      "name": "宗教社会学(Sociology of Religion)"
+    }, {
+      "id": "SO925     ",
+      "name": "食物人类学(Anthropology of Food)"
+    }, {
+      "id": "SO926     ",
+      "name": "全球化与全球社会(Globalization and Global Society)"
+    }, {
+      "id": "SO927     ",
+      "name": "民俗资源与旅游(Folk Resources and Tourism)"
+    }, {
+      "id": "SO928     ",
+      "name": "中国社会变迁(Social Changes in China)"
+    }, {
+      "id": "SO929     ",
+      "name": "民俗生活与民俗文献(Folk Life and Folk Literature)"
+    }, {
+      "id": "SO930     ",
+      "name": "图像与社会(Image and Society)"
+    }, {
+      "id": "SO931     ",
+      "name": "社会保障概论(Introduction to Social Security)"
+    }, {
+      "id": "SO932     ",
+      "name": "当代中国宗教概观(Introduction to Religions in Contemporary China)"
+    }, {
+      "id": "SO933     ",
+      "name": "当代西方社会分析(Contemporary Western Society)"
+    }, {
+      "id": "SO934     ",
+      "name": "人际交往艺术(Art of Interpersonal Communication)"
+    }, {
+      "id": "SO936     ",
+      "name": "职业生涯发展与规划(Career Development and Planning)"
+    }, {
+      "id": "SO937     ",
+      "name": "风险与社会保障(Risks and Social Security)"
+    }, {
+      "id": "SO938     ",
+      "name": "大众传播与社会问题(Mass Communication and Social Problems)"
+    }, {
+      "id": "SO940     ",
+      "name": "社会科学研究方法(Essential Research Methods in Social Science)"
+    }, {
+      "id": "SO941     ",
+      "name": "市场调研：方法与实践(Marketing Research: Methods and Practice)"
+    }, {
+      "id": "SO942     ",
+      "name": "美国社会与文化(American Society and Culture)"
+    }, {
+      "id": "SO943     ",
+      "name": "社会学概论(Introduction to Sociology)"
+    }, {
+      "id": "SO944     ",
+      "name": "全球化创新：原理与实践(Principles and Practices of Global Innovation)"
+    }, {
+      "id": "SO945     ",
+      "name": " "
+    }, {
+      "id": "TH901     ",
+      "name": "财富与美德(Fortune and Virtue)"
+    }]
+  }
+]
